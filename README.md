@@ -1,11 +1,9 @@
-<!-- ⚠️ Replace every YOUR_USERNAME with your GitHub username before pushing -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:00F5FF,50:B026FF,100:FF00E6&text=ABHISHEK%20A&fontColor=ffffff&fontSize=62&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20Data%20Science%20%7C%20Computer%20Vision%20%7C%20IoT&descAlignY=60&descSize=20" width="100%" alt="header"/>
+<img src="./assets/header.svg" width="100%" alt="Abhishek A"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=760&height=60&lines=Hi+there%2C+I'm+Abhishek+%F0%9F%91%8B;B.Tech+AI+%26+Data+Science+Student;Building+Computer+Vision+%26+LLM-powered+Apps;From+YOLO+models+to+ESP32+sensors;Turning+data+into+intelligent+products+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=760&height=60&lines=Hi+there%2C+I'm+Abhishek+%F0%9F%91%8B;B.Tech+AI+%26+Data+Science+Student;Building+Computer+Vision+%26+LLM-powered+Apps;From+YOLO+models+to+ESP32+sensors;Turning+data+into+intelligent+products" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,14 +14,12 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=B026FF&style=for-the-badge&labelColor=0D0221" alt="views"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=0D0221" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=iamabhishek04&label=PROFILE%20VIEWS&color=B026FF&style=for-the-badge&labelColor=0D0221" alt="views"/>
+<img src="https://img.shields.io/github/followers/iamabhishek04?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=0D0221" alt="followers"/>
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 🧠 `> whoami`
 
@@ -36,7 +32,7 @@ class Abhishek:
     loves     = ["YOLO", "TensorFlow Lite", "Streamlit", "ESP32"]
 
     def mission(self):
-        return "Ship intelligent systems — from the cloud to the edge. 🚀"
+        return "Ship intelligent systems, from the cloud to the edge. 🚀"
 ```
 
 - 🔭 Hands-on with **Machine Learning, Computer Vision, Data Analysis & AI application development**
@@ -44,7 +40,7 @@ class Abhishek:
 - 🌱 Built projects in **cattle breed classification, face recognition, automated test-case generation & IoT environmental monitoring**
 - 🎯 Always learning, always building, always shipping
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## ⚡ `Tech Arsenal`
 
@@ -68,7 +64,7 @@ class Abhishek:
 
 <br/>
 
-<img src="https://img.shields.io/badge/YOLO-00F5FF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO"/>
+<img src="https://img.shields.io/badge/YOLO-00F5FF?style=for-the-badge&logoColor=black" alt="YOLO"/>
 <img src="https://img.shields.io/badge/Streamlit-FF00E6?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 <img src="https://img.shields.io/badge/TensorFlow%20Lite-39FF14?style=for-the-badge&logo=tensorflow&logoColor=black" alt="TFLite"/>
 <img src="https://img.shields.io/badge/Power%20BI-B026FF?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
@@ -79,7 +75,7 @@ class Abhishek:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 🚀 `Featured Projects`
 
@@ -96,7 +92,7 @@ Computer vision app that identifies cattle breeds in real time, with muzzle biom
 ![TFLite](https://img.shields.io/badge/TensorFlow_Lite-39FF14?style=flat-square&labelColor=0D0221)
 ![OpenCV](https://img.shields.io/badge/OpenCV-FF00E6?style=flat-square&labelColor=0D0221)
 
-[🔗 View Repository](https://github.com/YOUR_USERNAME/Bovine-Scan)
+[🔗 View Repository](https://github.com/iamabhishek04/Bovine-Scan)
 
 </td>
 <td width="33%" valign="top">
@@ -110,7 +106,7 @@ Turns software requirements into structured test cases using LLMs, with authenti
 ![Python](https://img.shields.io/badge/Python-00F5FF?style=flat-square&labelColor=0D0221)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF00E6?style=flat-square&labelColor=0D0221)
 
-[🔗 View Repository](https://github.com/YOUR_USERNAME/TestGen-AI)
+[🔗 View Repository](https://github.com/iamabhishek04/TestGen-AI)
 
 </td>
 <td width="33%" valign="top">
@@ -124,13 +120,13 @@ Real-time temperature, humidity and gas monitoring system with live OLED display
 ![MicroPython](https://img.shields.io/badge/MicroPython-00F5FF?style=flat-square&labelColor=0D0221)
 ![DHT22](https://img.shields.io/badge/DHT22_%2B_MQ--136-FF00E6?style=flat-square&labelColor=0D0221)
 
-[🔗 View Repository](https://github.com/YOUR_USERNAME/Agrosphere360)
+[🔗 View Repository](https://github.com/iamabhishek04/Agrosphere360)
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 💼 `Experience`
 
@@ -151,35 +147,28 @@ B.Tech — Artificial Intelligence & Data Science   [ 2024 – 2028 ]
 Sri Ramakrishna Engineering College, Coimbatore
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 📊 `GitHub Analytics`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D0221&title_color=00F5FF&icon_color=FF00E6&text_color=FFFFFF&ring_color=39FF14&border_radius=12" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D0221&title_color=00F5FF&text_color=FFFFFF&border_radius=12&langs_count=8" alt="top langs"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=iamabhishek04&show_icons=true&hide_border=true&bg_color=0D0221&title_color=00F5FF&icon_color=FF00E6&text_color=FFFFFF&ring_color=39FF14&border_radius=12" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabhishek04&layout=compact&hide_border=true&bg_color=0D0221&title_color=00F5FF&text_color=FFFFFF&border_radius=12&langs_count=8" alt="top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D0221&ring=FF00E6&fire=39FF14&currStreakLabel=00F5FF&currStreakNum=FFFFFF&sideLabels=00F5FF&sideNums=FFFFFF&dates=B026FF" alt="streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D0221&color=00F5FF&line=FF00E6&point=39FF14&area=true&area_color=B026FF&hide_border=true&radius=12" width="95%" alt="activity graph"/>
+<img src="https://streak-stats.demolab.com?user=iamabhishek04&hide_border=true&background=0D0221&ring=FF00E6&fire=39FF14&currStreakLabel=00F5FF&currStreakNum=FFFFFF&sideLabels=00F5FF&sideNums=FFFFFF&dates=B026FF" alt="streak"/>
 
 </div>
 
 ## 🐍 `Contribution Snake`
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-neon.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-neon.svg" />
-</picture>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/iamabhishek04/iamabhishek04/output/github-snake-neon.svg" width="100%"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 📡 `Connect With Me`
 
@@ -191,14 +180,14 @@ Sri Ramakrishna Engineering College, Coimbatore
 <a href="mailto:abhishekarockiaraj@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-FF00E6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/iamabhishek04">
   <img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=B026FF&center=true&vCenter=true&width=600&lines=%22Code+is+poetry+written+for+machines.%22;Let's+build+something+intelligent+together+%E2%9A%A1" alt="footer typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=B026FF&center=true&vCenter=true&width=600&lines=Code+is+poetry+written+for+machines.;Let's+build+something+intelligent+together" alt="footer typing"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:FF00E6,50:B026FF,100:00F5FF&section=footer&animation=fadeIn" width="100%" alt="footer"/>
+<img src="./assets/footer.svg" width="100%" alt=""/>
 
 </div>
